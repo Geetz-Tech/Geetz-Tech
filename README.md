@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Geetha K S 👋
 
-<!--
-**Geetz-Tech/Geetz-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Python Backend Engineer | FastAPI Developer | AI Workflow Systems
 
-Here are some ideas to get you started:
+Passionate about building scalable backend applications, workflow automation platforms, and enterprise SaaS solutions using modern Python technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Core Technologies
+
+* Python
+* FastAPI
+* PostgreSQL
+* SQLAlchemy
+* React
+* Docker
+* REST APIs
+* JWT Authentication
+* RBAC
+* Workflow Automation
+
+---
+
+## 💼 Areas of Expertise
+
+* Backend Application Development
+* Enterprise SaaS Platforms
+* AI-Assisted Workflow Systems
+* Multi-Tenant Architecture
+* API Design & Integration
+* Database Design & Optimization
+* Process Automation
+* Digital Transformation Solutions
+
+---
+
+## 🔨 Current Portfolio Projects
+
+* StaffTract.AI — AI-Assisted Recruitment Workflow Platform
+* Faturaix — Compliance & E-Invoicing Platform
+* Smart ERP — Agriculture, Real Estate & Warehouse Management
+* Pyrosk.AI — AI Workflow Automation Platform
+* Trading CRM — Commodity Trading Operations Platform
+
+---
+
+## 📚 Currently Exploring
+
+* Advanced FastAPI Architecture
+* Scalable SaaS Design Patterns
+* AI Workflow Automation
+* Cloud-Native Application Development
+* Enterprise System Integration
+
+---
+
+## 📍 Location
+
+Riyadh, Saudi Arabia
+
+---
+
+## 🤝 Let's Connect
+
+Open to collaborating on backend engineering, SaaS platforms, workflow automation, and AI-driven business applications.
+
